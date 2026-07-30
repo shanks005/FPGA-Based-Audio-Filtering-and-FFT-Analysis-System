@@ -127,7 +127,7 @@ The current package documents the completed design and its results. HDL, MATLAB,
 
 The complete project report is available here:
 
-[Open the FPGA mini-project report](docs/FPGA_Mini_Project.pdf)
+[Open the FPGA mini-project report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/FPGA_Mini_Project.pdf)
 
 ## Future development
 
