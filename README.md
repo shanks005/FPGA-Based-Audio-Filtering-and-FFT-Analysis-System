@@ -6,7 +6,7 @@ The project demonstrates an end-to-end workflow from audio preparation and HDL g
 
 ## System architecture
 
-![Stage-wise block diagram of the FPGA audio-processing system](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/overall_schematic.pdf)
+![Stage-wise block diagram of the FPGA audio-processing system](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/FPGA_PROJ.png)
 
 The processing chain has two parallel analysis paths:
 
@@ -74,7 +74,7 @@ The unfiltered input contains several dominant spectral components together with
 
 ### Filtered-output FFT
 
-![FFT output after FIR filtering](assets/filtered-audio-fft.png)
+![FFT output after FIR filtering](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/filtered-audio-fft.jpeg)
 
 The two FFT paths make it possible to compare the original and filtered spectra and evaluate attenuation of unwanted components.
 
@@ -82,15 +82,15 @@ The two FFT paths make it possible to compare the original and filtered spectra 
 
 ### Overall logic utilization
 
-![Vivado LUT and register utilization report](assets/device-utilization.png)
+![Vivado LUT and register utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/Device_utilization(1).png)
 
 ### DSP utilization
 
-![Vivado DSP utilization report](assets/dsp-utilization.png)
+![Vivado DSP utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/dsp_utilization(1).png)
 
 ### Block RAM utilization
 
-![Vivado BRAM utilization report](assets/bram-utilization.png)
+![Vivado BRAM utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/memory_utilization(1).png)
 
 ## Typical tool flow
 
