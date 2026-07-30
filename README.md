@@ -6,7 +6,7 @@ The project demonstrates an end-to-end workflow from audio preparation and HDL g
 
 ## System architecture
 
-![Stage-wise block diagram of the FPGA audio-processing system](assets/system-architecture.png)
+![Stage-wise block diagram of the FPGA audio-processing system](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/overall_schematic.pdf)
 
 The processing chain has two parallel analysis paths:
 
@@ -68,7 +68,7 @@ Raw-audio FFT            FIR filter
 
 ### Raw input spectrum
 
-![Normalized FFT spectrum of the raw audio input](assets/raw-audio-fft.png)
+![Normalized FFT spectrum of the raw audio input](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/FFT_before.png)
 
 The unfiltered input contains several dominant spectral components together with lower-magnitude frequency content.
 
