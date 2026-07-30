@@ -82,15 +82,15 @@ The two FFT paths make it possible to compare the original and filtered spectra 
 
 ### Overall logic utilization
 
-![Vivado LUT and register utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/Device_utilization(1).png)
+![Vivado LUT and register utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/Device_utilization%20(1).png)
 
 ### DSP utilization
 
-![Vivado DSP utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/dsp_utilization(1).png)
+![Vivado DSP utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/dsp_utilization%20(1).png)
 
 ### Block RAM utilization
 
-![Vivado BRAM utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/memory_utilization(1).png)
+![Vivado BRAM utilization report](https://github.com/shanks005/FPGA-Based-Audio-Filtering-and-FFT-Analysis-System/blob/main/memory_utilization%20(1).png)
 
 ## Typical tool flow
 
